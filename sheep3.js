@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function(e) {
       window.requestAnimationFrame(function() {
         // Try forcing repaint
         homeButton.getBoundingClientRect();
-        window.location = '/?from=sheep3';
+        window.location = 'https://andrewsapps.netlify.app/?from=sheep3';
       });
     });
   });
