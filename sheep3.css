@@ -18,12 +18,12 @@ sheep-btn {
   transform: translateZ(0);
 }
 sheep-btn, .sheep-blockscreen sheep-btn:hover {
-  background-image: url("https://andrewsapps.netlify.app/download%20(1).svg");
+  background-image: url("https://andrewsapps.netlify.app/A-300.png");
 }
 sheep-btn:hover {
   background-color: rgba(255,255,255,0.8);
   box-shadow: 0 0 4px rgba(0,0,0,0.5);
-  background-image: url("https://andrewsapps.netlify.app/download%20(1).svg");
+  background-image: url("https://andrewsapps.netlify.app/A-300.png");
 }
 sheep-btn:active {
   box-shadow: 0 0 2px rgba(0,0,0,0.5);
